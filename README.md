@@ -1,0 +1,2 @@
+# WindowBackgroundAndAlarmManager
+MainActivity设置Theme，Theme里面的WindowBackground设置为drawable，另外还有AlarmManager的简单使用
