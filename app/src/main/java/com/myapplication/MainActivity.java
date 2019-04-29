@@ -1,13 +1,14 @@
-package ugou.ugou88.com.myapplication;
+package com.myapplication;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.BaseAdapter;
-import android.widget.ListView;
 
+import ugou.ugou88.com.myapplication.R;
+
+/*
+ * setTheme 闪屏页
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Intent intent;

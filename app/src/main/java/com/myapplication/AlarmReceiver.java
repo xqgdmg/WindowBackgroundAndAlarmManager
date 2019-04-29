@@ -1,4 +1,4 @@
-package ugou.ugou88.com.myapplication;
+package com.myapplication;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
